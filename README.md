@@ -1,5 +1,6 @@
 # ctf-python-ofuscado-01
 Reto de condigo de python ofuscado
+tutorial:https://www.youtube.com/watch?v=OogKo4NlsL4
 
 1-ejecutar archivo de python
 2.-analizar el codigo del archivo
